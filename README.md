@@ -2,7 +2,7 @@
 
 ## AI Research and Developer
 
-- Currently at [AITRICS] [https://www.aitrics.com/en]
+- Currently at [AITRICS](https://www.aitrics.com/en)
 - Research Area: 💊 AI Drug Discovery (target, drug, disease)
 - 💻
 
@@ -34,8 +34,6 @@
          <a href="https://www.docker.com/" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
         </a>
-
-    </p>
 
 </details>
 
