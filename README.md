@@ -1,10 +1,12 @@
 ### Erkhembayar J.
 
-## AI Research and Developer
+## AI Researcher and Developer
 
-- Currently at [AITRICS](https://www.aitrics.com/en)
-- Research Area: 💊 AI Drug Discovery (target, drug, disease)
-- 💻
+- 🏢 Currently at [AITRICS](https://www.aitrics.com/en)
+- 🔬 Research Area: 💊 AI Drug Discovery (target, drug, disease)
+- 🌱 currently learning rust
+- 💻 AI driven Drug Discovery | 🧬 Cancer Genomics | 💊 Drug Repositioning | 🦠 Target Identification | 🧪 Toxicogenomic
+- Data Science | Machine Learning | Bioinformatics | Genomic Data Analysis | Deep Learning | Graph-based Deep Learning | Bio Knowledge Graph | Gene expression, SNPs, NGS Data Analysis
 
 <br />
 
