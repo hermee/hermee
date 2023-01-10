@@ -6,7 +6,7 @@
 - 🔬 Research Area: 💊 AI Drug Discovery (target, drug, disease)
 - 🌱 currently learning rust
 - 💻 AI driven Drug Discovery | 🧬 Cancer Genomics | 💊 Drug Repositioning | 🦠 Target Identification | 🧪 Toxicogenomic
-- Data Science | Machine Learning | Bioinformatics | Genomic Data Analysis | Deep Learning | Graph-based Deep Learning | Bio Knowledge Graph | Gene expression, SNPs, NGS Data Analysis
+- Data Mining | AI | Machine Learning | Bioinformatics | Genomic Data Analysis | Deep Learning | Graph-based Deep Learning | Bio Knowledge Graph | Gene expression, SNPs, NGS Data Analysis
 
 <br />
 
