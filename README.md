@@ -2,7 +2,7 @@
 
 ## AI Researcher and Developer
 
-- 🏢 Currently at [AITRICS](https://www.aitrics.com/en)
+- 🏢 Currently at [MOGAM Institute for Biomedical Research](http://www.mogam.re.kr/eng)
 - 🔬 Research Area: 💊 AI Drug Discovery (target, drug, disease)
 - 🌱 currently learning rust
 - 💻 AI driven Drug Discovery | 🧬 Cancer Genomics | 💊 Drug Repositioning | 🦠 Target Identification | 🧪 Toxicogenomic
