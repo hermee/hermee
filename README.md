@@ -5,7 +5,7 @@
 - 🏢 Currently at [MOGAM Institute for Biomedical Research](http://www.mogam.re.kr/eng)
 - 🔬 Research Area: 💊 AI Drug Discovery (target, drug, disease)
 - 🌱 currently learning rust
-- 💻 AI driven Drug Discovery | 🧬 Cancer Genomics | 💊 Drug Repositioning | 🦠 Target Identification | 🧪 Toxicogenomic
+- 💻 AI driven Drug Discovery | 💊 Drug Design | 💊 Drug Property Prediction | 💊 Drug Repositioning |🧬 Cancer Genomics |  | 🦠 Target Identification | 🧪 Toxicogenomic
 - Data Mining | AI | Machine Learning | Bioinformatics | Genomic Data Analysis | Deep Learning | Graph-based Deep Learning | Bio Knowledge Graph | Gene expression, SNPs, NGS Data Analysis
 
 <br />
